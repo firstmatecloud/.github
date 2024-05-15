@@ -1,6 +1,7 @@
 ## Hi there 👋
 We would like to welcome you in the beating heart of the worlds first AI cloud enhgineer assistant. 
 Similar to the maritime world where the role of the first mate was critical onboard of a ship, We are serving the captain as your right-hand assistant and trusted deputy. 
+
 So to all cloud captains, welcome aboard!
 
 <!--
