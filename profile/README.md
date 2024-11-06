@@ -21,8 +21,8 @@ If you're maintaining an open-source project, FirstMate can help keep it organiz
 
 ## 👩‍💻 Quick Start
 
-- **Docs**: Explore FirstMate’s features in our [Documentation](https://link_to_docs](https://docs.firstmate.io/)).
-- **Get Started**: Follow our [Setup Guide](https://link_to_setup_guide](https://docs.firstmate.io/getting-started)) to start using FirstMate.
+- **Docs**: Explore FirstMate’s features in our [Documentation](https://docs.firstmate.io/).
+- **Get Started**: Follow our [Setup Guide](https://docs.firstmate.io/getting-started) to start using FirstMate.
 
 ## 🍿 Fun Facts
 
